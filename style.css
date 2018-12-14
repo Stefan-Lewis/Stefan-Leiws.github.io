@@ -1,0 +1,120 @@
+body {
+ background-color: dimgrey;
+}
+
+.imageHomeMain{
+    width: 100%;
+    height: 600px;
+    Background-color: indianred;
+}
+
+.squareInfo{
+    width: 100%;
+    height: 360px;
+    Background-color: grey;
+    position: relative; bottom: 70px; left: 0;
+}
+
+.imageHomeOne{
+    width: 700px;
+    height: 500px;
+    background-color: coral;
+    position: relative; bottom: 0;left: 380px;
+}
+
+.imageHomeFour{
+    position: relative; top: 0;left: 550px;
+}
+
+.imageHomeTwo{
+    width: 400px;
+    height: 240px;
+    background-color: darkslategrey;
+    position: relative; top: -240px;left: 1100px;
+}
+
+.imageHomeThree{
+    width: 400px;
+    height: 240px;
+    background-color: mistyrose;
+    position: relative; top: -745px;left: 1100px;
+}
+
+.imageTextHome{
+    position: relative; top: 200px;
+}
+
+.video{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;top: 70px;
+    display: block;
+}
+
+.imageDesignOne{
+    width: 500px;
+    height: 500px;
+    background-color: aliceblue;
+    position: relative; top: 200px;left: 350px;
+}
+
+.imageDesignTwo{
+    width: 500px;
+    height: 500px;
+    background-color: beige;
+    position: relative; top: -300px;left: 1100px;
+}
+
+.textImageDesignOne{
+    width: 500px;
+    height: 500px;
+    background-color: rgba(255,0,0,0.18);
+    position: relative; top: -335px;left: 350px;
+}
+
+.textImageDesignTwo{
+    width: 500px;
+    height: 500px;
+    background-color: rgba(255,0,0,0.18);
+    position: relative; top: -855px;left: 1100px;
+}
+
+.imgdesThree{
+    position: relative;bottom: 580px;
+}
+
+.imageTeamOne {
+    width: 350px;
+    height: 500px;
+    background-color: cornflowerblue;
+    position: relative;
+    bottom: -30px;
+    left: 520px;
+}
+
+.imageTeamTwo {
+    width: 350px;
+    height: 500px;
+    background-color: cornflowerblue;
+    position: relative;
+    bottom: -30px;
+    left: 520px;
+}
+
+.squareTeamPage{
+    width: 100%;
+    height: 360px;
+    Background-color: grey;
+    position: relative; bottom: -100px; left: 0px;
+}
+
+.textGoodBye{
+    position: relative; top: 140px;
+}
+
+.squareTeamOne{
+    width: 500px;
+    height: 500px;
+    background-color: rgba(0,0,0,0.1);
+    position: relative; top: -470px;left: 870px;
+}
